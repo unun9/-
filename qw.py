@@ -55,4 +55,4 @@ def main(board):
     draw_board(board)
 main(board)
 
-input("Нажмите Enter для выхода!")
+input("Нажмите Enter для выхода!!")
