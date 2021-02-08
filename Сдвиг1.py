@@ -11,7 +11,7 @@ def sdvig(d,s):
         for i in range(1,s):
             f=d.pop()
             d.insert(0,f)
-            print(d)
+            print(d )
 
     elif s<0:
         for j in range(s,-1):
